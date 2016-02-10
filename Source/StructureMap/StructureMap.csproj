@@ -434,7 +434,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <Import Project="$(ProgramFiles)MSBuild\Microsoft\StyleCop\v4.7\Microsoft.SourceAnalysis.targets " />
+  <Import Project="$(ProgramFiles)\MSBuild\Microsoft\StyleCop\v4.7\Microsoft.SourceAnalysis.targets " />
   <PropertyGroup>
     <PreBuildEvent>
     </PreBuildEvent>
