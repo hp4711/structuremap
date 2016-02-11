@@ -142,8 +142,6 @@
 	<copy todir="deploy" file="LICENSE.TXT"/>
 
     <copy todir="deploy" file="Source\StructureMapDoctor\bin\${project.config}\StructureMapDoctor.exe" />
-
-    <call target="cleanJunk" />
   </target>
 
 
